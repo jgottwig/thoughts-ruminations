@@ -1,3 +1,6 @@
+Coffee
+by Jeremy Gottwig
+
 I wonder why
 that fly persists to flip
 between the window and my
@@ -19,3 +22,6 @@ other fly
 just enjoys
 the taste
 of piss.
+
+-----
+https://github.com/jgottwig/thoughts-ruminations.git
